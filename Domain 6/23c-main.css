@@ -5,7 +5,7 @@
 }
 p {
     color: navy;
-    font-family:arial Segoe UI ;
+    font-family:arial Segoe UI  sans-serif  ;
 }
 a {
     text-decoration:none;
