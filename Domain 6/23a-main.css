@@ -6,6 +6,11 @@
 p {
     color: navy;
 }
+figcaption{
+    color:pink;
+    font-weight:bold;
+    background-color:red;
+}
 a {
     text-decoration:none;
 }
