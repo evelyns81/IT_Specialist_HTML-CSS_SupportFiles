@@ -13,6 +13,7 @@ li a, .dropBtn{
   color:light blue;
   text-align:center;
   padding:12px 14px;
+  text-decoration:none;
 }
 li a:hover, .dropDown:hover .dropBtn;{
   background-color:light red;
