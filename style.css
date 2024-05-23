@@ -3,7 +3,7 @@ ul{
   margin:0;
   padding:0;
   overflow:hidden;
-  background-color;#FFCCCC
+  background-color;#FFCCCC;
 }
 li{
   float:left;
@@ -23,9 +23,20 @@ li.dropDown{
 .dropDown-content{
   display:none;
   position:absolute;
-  background-color:#CCCCFF
+  background-color:#CCCCFF;
   min-witdh:160px;
   box-shadow:0px 8px 16pc 0px rgba(1,0.1,0.3);
   z-index:1;
 }
-
+.dropDown-content a{
+  color:black;
+  display:block;
+  text-align:left;
+}
+.dropDown-content a:hover{
+  backgroud-color:#FFCC99;
+  color:pink;
+}
+.dropDown:hover .dropDown-content{
+  display:block;
+}
