@@ -41,7 +41,10 @@ li .dropDown{
 .dropDown:hover .dropDown-content{
   display:block;
 }
-.center {
+h1 {
   text-align: center;
   border: 3px green;
+}
+body {
+  background-color: lightblue;
 }
