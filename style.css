@@ -30,7 +30,7 @@ li .dropDown{
   z-index:1;
 }
 .dropDown-content a{
-  color:black;
+  color:blue;
   display:block;
   text-align:left;
 }
