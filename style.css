@@ -16,7 +16,7 @@ li a, .dropBtn{
   text-decoration:none;
 }
 li a:hover, .dropDown:hover .dropBtn{
-  background-color:red;
+  background-color:#bec9f2;
 }
 li .dropDown{
   display:lnline-block;
