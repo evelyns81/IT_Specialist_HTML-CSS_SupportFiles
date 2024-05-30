@@ -35,7 +35,7 @@ li .dropDown{
   text-align:left;
 }
 .dropDown-content a:hover{
-  backgroud-color:#FFCC99;
+  background-color:#FFCC99;
   color:#CC94FA;
 }
 .dropDown:hover .dropDown-content{
@@ -62,7 +62,7 @@ body {
 }
 .right {
   width: 74.5%;
-  height: 200px;
+  height: 1600px;
   padding: 2px;
   border: 5px solid gray;
   margin: 2px;
